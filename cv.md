@@ -1,8 +1,8 @@
 # Andrey Sinaf
 
 ## Contact Info ##
-- **Skype:** Andrey Sinaf
-- **Phone:** (+ 7 930 160 50 81) 
+- **Skype:** 
+- **Phone:** 
 
 
 ## Summary ##
@@ -13,7 +13,7 @@ The total work experience is about 3.5 years (about programming==). Most of them
 
 | Programming Language|     
 | ------------- | 
-| HTML
+| HTML 
 | CSS           |                    
 | JAVSCRIPT     |                     
 | PHP           | 
