@@ -8,6 +8,25 @@
     font-family: "Montserrat", sans-serif;
 }
 
+
+
+header {
+    display: flex;
+    text-align: center;
+    margin:25px;
+  }
+  
+  .navigation {
+    flex-grow: 1;
+    margin-left: 40px;
+  }
+  
+  .navigation--item {
+    text-decoration: none;
+    color: #bdbdbd;
+    margin-left: 24px;
+  }
+
 body {
     background: #585c68;
     font-size: 14px;
@@ -36,7 +55,7 @@ body {
 
 .resume .resume_left {
     width: 280px;
-    background: #0bb5f4;
+    background: rgba(255, 255, 255, 0.5);
 }
 
 .resume .resume_left .resume_profile {
@@ -122,7 +141,7 @@ body {
     width: 60%;
     margin: 0 5px;
     height: 5px;
-    background: #009fd9;
+    background: #FF00AB;
     position: relative;
 
 }  
@@ -227,3 +246,18 @@ body {
 .resume .resume_right .resume_hobby ul li:last-child:before{
     display: none;
 }
+
+
+footer {
+    margin-top: 6px;
+    height: 20px;
+    font-family: "Amatic SC", cursive;
+    display: flex;
+  }
+  
+  .footer-author {
+    color: black;
+    font-size: 15px;
+    margin: auto;
+  }
+  
